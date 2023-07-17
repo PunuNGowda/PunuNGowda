@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me instagram:@punu.n.gowda, Linkedln:Punu N Gowda
-- 
 
 <!---
 PunuNGowda/PunuNGowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
