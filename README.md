@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PunuNGowda
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate on Web development
+- 👀 I’m interested in Data Analytics and Software Development
+- 🌱 I’m currently learning Python
 - 📫 How to reach me instagram:@punu.n.gowda, Linkedln:Punu N Gowda
 
 <!---
