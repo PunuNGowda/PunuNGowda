@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PunuNGowda
 - 👀 I’m interested in Data Analytics and Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JAVA
 - 📫 How to reach me instagram:@punu.n.gowda, Linkedln:Punu N Gowda
 
 <!---
