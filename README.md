@@ -6,7 +6,7 @@
 
 Bengaluru, India · [Portfolio](https://punu-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/punungowda) · [Twitter](https://twitter.com/punungowda) · [Email](mailto:punungowda6@gmail.com)
 
-Software Engineer at TCS working on OneCIAM — a healthcare identity & integration platform (Java, Spring Boot, SAP CDC, MuleSoft, Redis). Previously Data Quality Analyst at Anakin Technologies. MCA, 9.4/10.
+Software Engineer at TCS worked on OneCIAM — a healthcare identity & integration platform (Java, Spring Boot, SAP CDC, MuleSoft, Redis). Previously Data Quality Analyst at Anakin Technologies. MCA, 9.4/10.
 
 ---
 </div>
