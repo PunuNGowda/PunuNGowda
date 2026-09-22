@@ -35,8 +35,16 @@ You can find more in my [repositories](https://github.com/PunuNGowda?tab=reposit
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PunuNGowda&show_icons=true&hide_title=true" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunuNGowda&layout=compact&hide_title=true" alt="Top languages" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=PunuNGowda&hide_border=true&background=0D1117&fire=FF5722&ring=FF5722&currStreakNum=FFFFFF&sideNums=AAAAAA&sideLabels=CCCCCC&dates=888888" alt="GitHub streak" height="160"/>
+</p>
+
+**Most used languages**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ---
